@@ -1,0 +1,26 @@
+.navbar{
+    background-color: rgb(3, 3, 41);
+    color: #fff;
+}.hover:hover{
+    color: #e53f27 !important;
+    transition: 1s;
+}.rotate-image{
+    width: 25%;
+    margin-top: 200px;
+    
+}.main-text{
+    margin-top: 200px;
+    font-size: 90px;
+    color: #fff;
+    font-family: 'Ariata';
+        src: url('fonts/Ariata.woff2') format('woff2'),
+             url('fonts/Ariata.woff') format('woff');
+        font-weight: bolder;
+}.navbar-toggler {
+    border-color: transparent; 
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+}
+
